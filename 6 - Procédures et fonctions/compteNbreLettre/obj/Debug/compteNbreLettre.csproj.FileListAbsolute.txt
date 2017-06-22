@@ -1,0 +1,12 @@
+C:\Users\afpa\Google Drive\4 - C Sharp\6 - Procédures et fonctions\compteNbreLettre\bin\Debug\compteNbreLettre.exe.config
+C:\Users\afpa\Google Drive\4 - C Sharp\6 - Procédures et fonctions\compteNbreLettre\bin\Debug\compteNbreLettre.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\6 - Procédures et fonctions\compteNbreLettre\bin\Debug\compteNbreLettre.pdb
+C:\Users\afpa\Google Drive\4 - C Sharp\6 - Procédures et fonctions\compteNbreLettre\obj\Debug\compteNbreLettre.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Google Drive\4 - C Sharp\6 - Procédures et fonctions\compteNbreLettre\obj\Debug\compteNbreLettre.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\6 - Procédures et fonctions\compteNbreLettre\obj\Debug\compteNbreLettre.pdb
+C:\Users\BIKOUTA\Google Drive\4 - C Sharp\6 - Procédures et fonctions\compteNbreLettre\bin\Debug\compteNbreLettre.exe.config
+C:\Users\BIKOUTA\Google Drive\4 - C Sharp\6 - Procédures et fonctions\compteNbreLettre\obj\Debug\compteNbreLettre.exe
+C:\Users\BIKOUTA\Google Drive\4 - C Sharp\6 - Procédures et fonctions\compteNbreLettre\obj\Debug\compteNbreLettre.pdb
+C:\Users\BIKOUTA\Google Drive\4 - C Sharp\6 - Procédures et fonctions\compteNbreLettre\obj\Debug\compteNbreLettre.csprojResolveAssemblyReference.cache
+C:\Users\BIKOUTA\Google Drive\4 - C Sharp\6 - Procédures et fonctions\compteNbreLettre\bin\Debug\compteNbreLettre.exe
+C:\Users\BIKOUTA\Google Drive\4 - C Sharp\6 - Procédures et fonctions\compteNbreLettre\bin\Debug\compteNbreLettre.pdb

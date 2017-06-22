@@ -1,0 +1,5 @@
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 8 TriParInsertion\bin\Debug\Exo 8 TriParInsertion.exe.config
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 8 TriParInsertion\bin\Debug\Exo 8 TriParInsertion.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 8 TriParInsertion\bin\Debug\Exo 8 TriParInsertion.pdb
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 8 TriParInsertion\obj\Debug\Exo 8 TriParInsertion.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 8 TriParInsertion\obj\Debug\Exo 8 TriParInsertion.pdb

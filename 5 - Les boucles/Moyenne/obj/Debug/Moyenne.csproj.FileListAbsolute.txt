@@ -1,0 +1,6 @@
+C:\Users\afpa\Google Drive\4 - C Sharp\5 - Les boucles\Moyenne\bin\Debug\Moyenne.exe.config
+C:\Users\afpa\Google Drive\4 - C Sharp\5 - Les boucles\Moyenne\bin\Debug\Moyenne.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\5 - Les boucles\Moyenne\bin\Debug\Moyenne.pdb
+C:\Users\afpa\Google Drive\4 - C Sharp\5 - Les boucles\Moyenne\obj\Debug\Moyenne.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Google Drive\4 - C Sharp\5 - Les boucles\Moyenne\obj\Debug\Moyenne.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\5 - Les boucles\Moyenne\obj\Debug\Moyenne.pdb

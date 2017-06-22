@@ -1,0 +1,6 @@
+C:\Users\afpa\Google Drive\4 - C Sharp\6 - Procédures et fonctions\calculFactorielle\bin\Debug\calculFactorielle.exe.config
+C:\Users\afpa\Google Drive\4 - C Sharp\6 - Procédures et fonctions\calculFactorielle\bin\Debug\calculFactorielle.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\6 - Procédures et fonctions\calculFactorielle\bin\Debug\calculFactorielle.pdb
+C:\Users\afpa\Google Drive\4 - C Sharp\6 - Procédures et fonctions\calculFactorielle\obj\Debug\calculFactorielle.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Google Drive\4 - C Sharp\6 - Procédures et fonctions\calculFactorielle\obj\Debug\calculFactorielle.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\6 - Procédures et fonctions\calculFactorielle\obj\Debug\calculFactorielle.pdb

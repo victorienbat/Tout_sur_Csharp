@@ -1,0 +1,6 @@
+C:\Users\afpa\Google Drive\4 - C Sharp\6 - Procédures et fonctions\tableMultiplication\bin\Debug\tableMultiplication.exe.config
+C:\Users\afpa\Google Drive\4 - C Sharp\6 - Procédures et fonctions\tableMultiplication\obj\Debug\tableMultiplication.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Google Drive\4 - C Sharp\6 - Procédures et fonctions\tableMultiplication\bin\Debug\tableMultiplication.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\6 - Procédures et fonctions\tableMultiplication\bin\Debug\tableMultiplication.pdb
+C:\Users\afpa\Google Drive\4 - C Sharp\6 - Procédures et fonctions\tableMultiplication\obj\Debug\tableMultiplication.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\6 - Procédures et fonctions\tableMultiplication\obj\Debug\tableMultiplication.pdb

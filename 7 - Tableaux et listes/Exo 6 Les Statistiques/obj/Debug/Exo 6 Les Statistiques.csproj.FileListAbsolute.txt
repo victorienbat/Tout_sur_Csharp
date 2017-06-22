@@ -1,0 +1,6 @@
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 6 Les Statistiques\bin\Debug\Exo 6 Les Statistiques.exe.config
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 6 Les Statistiques\bin\Debug\Exo 6 Les Statistiques.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 6 Les Statistiques\bin\Debug\Exo 6 Les Statistiques.pdb
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 6 Les Statistiques\obj\Debug\Exo 6 Les Statistiques.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 6 Les Statistiques\obj\Debug\Exo 6 Les Statistiques.pdb
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 6 Les Statistiques\obj\Debug\Exo 6 Les Statistiques.csprojResolveAssemblyReference.cache

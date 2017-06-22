@@ -1,0 +1,6 @@
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 5 Majorite\bin\Debug\Exo 5 Majorite.exe.config
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 5 Majorite\bin\Debug\Exo 5 Majorite.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 5 Majorite\bin\Debug\Exo 5 Majorite.pdb
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 5 Majorite\obj\Debug\Exo 5 Majorite.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 5 Majorite\obj\Debug\Exo 5 Majorite.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 5 Majorite\obj\Debug\Exo 5 Majorite.pdb

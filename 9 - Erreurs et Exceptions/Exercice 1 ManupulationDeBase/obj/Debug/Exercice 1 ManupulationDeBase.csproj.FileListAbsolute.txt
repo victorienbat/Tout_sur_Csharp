@@ -1,0 +1,6 @@
+C:\Users\afpa\Google Drive\4 - C Sharp\9 - Erreurs et Exceptions\Exercice 1 ManupulationDeBase\bin\Debug\Exercice 1 ManupulationDeBase.exe.config
+C:\Users\afpa\Google Drive\4 - C Sharp\9 - Erreurs et Exceptions\Exercice 1 ManupulationDeBase\bin\Debug\Exercice 1 ManupulationDeBase.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\9 - Erreurs et Exceptions\Exercice 1 ManupulationDeBase\bin\Debug\Exercice 1 ManupulationDeBase.pdb
+C:\Users\afpa\Google Drive\4 - C Sharp\9 - Erreurs et Exceptions\Exercice 1 ManupulationDeBase\obj\Debug\Exercice 1 ManupulationDeBase.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Google Drive\4 - C Sharp\9 - Erreurs et Exceptions\Exercice 1 ManupulationDeBase\obj\Debug\Exercice 1 ManupulationDeBase.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\9 - Erreurs et Exceptions\Exercice 1 ManupulationDeBase\obj\Debug\Exercice 1 ManupulationDeBase.pdb

@@ -1,0 +1,12 @@
+C:\Users\afpa\Google Drive\4 - C Sharp\8 - Synthèse\Jeu_du_Pendu\bin\Debug\Jeu_du_Pendu.exe.config
+C:\Users\afpa\Google Drive\4 - C Sharp\8 - Synthèse\Jeu_du_Pendu\bin\Debug\Jeu_du_Pendu.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\8 - Synthèse\Jeu_du_Pendu\bin\Debug\Jeu_du_Pendu.pdb
+C:\Users\afpa\Google Drive\4 - C Sharp\8 - Synthèse\Jeu_du_Pendu\obj\Debug\Jeu_du_Pendu.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Google Drive\4 - C Sharp\8 - Synthèse\Jeu_du_Pendu\obj\Debug\Jeu_du_Pendu.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\8 - Synthèse\Jeu_du_Pendu\obj\Debug\Jeu_du_Pendu.pdb
+C:\Users\BIKOUTA\Google Drive\4 - C Sharp\8 - Synthèse\Jeu_du_Pendu\bin\Debug\Jeu_du_Pendu.exe.config
+C:\Users\BIKOUTA\Google Drive\4 - C Sharp\8 - Synthèse\Jeu_du_Pendu\obj\Debug\Jeu_du_Pendu.exe
+C:\Users\BIKOUTA\Google Drive\4 - C Sharp\8 - Synthèse\Jeu_du_Pendu\obj\Debug\Jeu_du_Pendu.pdb
+C:\Users\BIKOUTA\Google Drive\4 - C Sharp\8 - Synthèse\Jeu_du_Pendu\bin\Debug\Jeu_du_Pendu.exe
+C:\Users\BIKOUTA\Google Drive\4 - C Sharp\8 - Synthèse\Jeu_du_Pendu\bin\Debug\Jeu_du_Pendu.pdb
+C:\Users\BIKOUTA\Google Drive\4 - C Sharp\8 - Synthèse\Jeu_du_Pendu\obj\Debug\Jeu_du_Pendu.csprojResolveAssemblyReference.cache

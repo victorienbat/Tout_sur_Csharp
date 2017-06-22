@@ -1,0 +1,6 @@
+C:\Users\afpa\Google Drive\4 - C Sharp\5 - Les boucles\NbreVoyelle\bin\Debug\NbreVoyelle.exe.config
+C:\Users\afpa\Google Drive\4 - C Sharp\5 - Les boucles\NbreVoyelle\bin\Debug\NbreVoyelle.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\5 - Les boucles\NbreVoyelle\bin\Debug\NbreVoyelle.pdb
+C:\Users\afpa\Google Drive\4 - C Sharp\5 - Les boucles\NbreVoyelle\obj\Debug\NbreVoyelle.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\5 - Les boucles\NbreVoyelle\obj\Debug\NbreVoyelle.pdb
+C:\Users\afpa\Google Drive\4 - C Sharp\5 - Les boucles\NbreVoyelle\obj\Debug\NbreVoyelle.csprojResolveAssemblyReference.cache

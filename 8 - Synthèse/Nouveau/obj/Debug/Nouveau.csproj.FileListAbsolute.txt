@@ -1,0 +1,8 @@
+C:\Users\afpa\Google Drive\4 - C Sharp\8 - Synthèse\Nouveau\bin\Debug\Nouveau.exe.config
+C:\Users\afpa\Google Drive\4 - C Sharp\8 - Synthèse\Nouveau\bin\Debug\Nouveau.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\8 - Synthèse\Nouveau\bin\Debug\Nouveau.pdb
+C:\Users\afpa\Google Drive\4 - C Sharp\8 - Synthèse\Nouveau\obj\Debug\Nouveau.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\8 - Synthèse\Nouveau\obj\Debug\Nouveau.pdb
+C:\Users\BIKOUTA\Google Drive\4 - C Sharp\8 - Synthèse\Nouveau\bin\Debug\Nouveau.exe.config
+C:\Users\BIKOUTA\Google Drive\4 - C Sharp\8 - Synthèse\Nouveau\obj\Debug\Nouveau.exe
+C:\Users\BIKOUTA\Google Drive\4 - C Sharp\8 - Synthèse\Nouveau\obj\Debug\Nouveau.pdb

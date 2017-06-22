@@ -1,0 +1,12 @@
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 10 cribleErathostène\bin\Debug\Exo 10 cribleErathostène.exe.config
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 10 cribleErathostène\bin\Debug\Exo 10 cribleErathostène.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 10 cribleErathostène\bin\Debug\Exo 10 cribleErathostène.pdb
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 10 cribleErathostène\obj\Debug\Exo 10 cribleErathostène.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 10 cribleErathostène\obj\Debug\Exo 10 cribleErathostène.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 10 cribleErathostène\obj\Debug\Exo 10 cribleErathostène.pdb
+C:\Users\BIKOUTA\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 10 cribleErathostène\bin\Debug\Exo 10 cribleErathostène.exe.config
+C:\Users\BIKOUTA\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 10 cribleErathostène\obj\Debug\Exo 10 cribleErathostène.exe
+C:\Users\BIKOUTA\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 10 cribleErathostène\obj\Debug\Exo 10 cribleErathostène.pdb
+C:\Users\BIKOUTA\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 10 cribleErathostène\bin\Debug\Exo 10 cribleErathostène.exe
+C:\Users\BIKOUTA\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 10 cribleErathostène\bin\Debug\Exo 10 cribleErathostène.pdb
+C:\Users\BIKOUTA\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 10 cribleErathostène\obj\Debug\Exo 10 cribleErathostène.csprojResolveAssemblyReference.cache

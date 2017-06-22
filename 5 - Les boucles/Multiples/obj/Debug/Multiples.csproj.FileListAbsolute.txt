@@ -1,0 +1,8 @@
+C:\Users\afpa\Google Drive\4 - C Sharp\5 - Les boucles\Multiples\bin\Debug\Multiples.exe.config
+C:\Users\afpa\Google Drive\4 - C Sharp\5 - Les boucles\Multiples\bin\Debug\Multiples.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\5 - Les boucles\Multiples\bin\Debug\Multiples.pdb
+C:\Users\afpa\Google Drive\4 - C Sharp\5 - Les boucles\Multiples\obj\Debug\Multiples.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\5 - Les boucles\Multiples\obj\Debug\Multiples.pdb
+C:\Users\BIKOUTA\Google Drive\4 - C Sharp\5 - Les boucles\Multiples\bin\Debug\Multiples.exe.config
+C:\Users\BIKOUTA\Google Drive\4 - C Sharp\5 - Les boucles\Multiples\obj\Debug\Multiples.exe
+C:\Users\BIKOUTA\Google Drive\4 - C Sharp\5 - Les boucles\Multiples\obj\Debug\Multiples.pdb

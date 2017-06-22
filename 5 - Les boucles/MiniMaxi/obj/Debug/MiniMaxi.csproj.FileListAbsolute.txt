@@ -1,0 +1,6 @@
+C:\Users\afpa\Google Drive\4 - C Sharp\5 - Les boucles\MiniMaxi\bin\Debug\MiniMaxi.exe.config
+C:\Users\afpa\Google Drive\4 - C Sharp\5 - Les boucles\MiniMaxi\bin\Debug\MiniMaxi.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\5 - Les boucles\MiniMaxi\bin\Debug\MiniMaxi.pdb
+C:\Users\afpa\Google Drive\4 - C Sharp\5 - Les boucles\MiniMaxi\obj\Debug\MiniMaxi.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Google Drive\4 - C Sharp\5 - Les boucles\MiniMaxi\obj\Debug\MiniMaxi.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\5 - Les boucles\MiniMaxi\obj\Debug\MiniMaxi.pdb

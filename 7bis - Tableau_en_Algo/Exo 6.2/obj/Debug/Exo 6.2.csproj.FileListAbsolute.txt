@@ -1,0 +1,5 @@
+C:\Users\afpa\Google Drive\4 - C Sharp\7bis - Tableau_en_Algo\Exo 6.2\bin\Debug\Exo 6.2.exe.config
+C:\Users\afpa\Google Drive\4 - C Sharp\7bis - Tableau_en_Algo\Exo 6.2\bin\Debug\Exo 6.2.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\7bis - Tableau_en_Algo\Exo 6.2\bin\Debug\Exo 6.2.pdb
+C:\Users\afpa\Google Drive\4 - C Sharp\7bis - Tableau_en_Algo\Exo 6.2\obj\Debug\Exo 6.2.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\7bis - Tableau_en_Algo\Exo 6.2\obj\Debug\Exo 6.2.pdb

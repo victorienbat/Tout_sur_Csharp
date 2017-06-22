@@ -1,0 +1,6 @@
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 7 ConversionDeBases\bin\Debug\Exo 7 ConversionDeBases.exe.config
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 7 ConversionDeBases\obj\Debug\Exo 7 ConversionDeBases.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 7 ConversionDeBases\bin\Debug\Exo 7 ConversionDeBases.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 7 ConversionDeBases\bin\Debug\Exo 7 ConversionDeBases.pdb
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 7 ConversionDeBases\obj\Debug\Exo 7 ConversionDeBases.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 7 ConversionDeBases\obj\Debug\Exo 7 ConversionDeBases.pdb

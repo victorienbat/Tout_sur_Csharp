@@ -1,0 +1,6 @@
+C:\Users\afpa\Google Drive\4 - C Sharp\5 - Les boucles\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\afpa\Google Drive\4 - C Sharp\5 - Les boucles\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\5 - Les boucles\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\afpa\Google Drive\4 - C Sharp\5 - Les boucles\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Google Drive\4 - C Sharp\5 - Les boucles\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\5 - Les boucles\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

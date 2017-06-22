@@ -1,0 +1,6 @@
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 11 Factorielle_Suite\bin\Debug\Exo 11 Factorielle_Suite.exe.config
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 11 Factorielle_Suite\bin\Debug\Exo 11 Factorielle_Suite.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 11 Factorielle_Suite\bin\Debug\Exo 11 Factorielle_Suite.pdb
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 11 Factorielle_Suite\obj\Debug\Exo 11 Factorielle_Suite.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 11 Factorielle_Suite\obj\Debug\Exo 11 Factorielle_Suite.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exo 11 Factorielle_Suite\obj\Debug\Exo 11 Factorielle_Suite.pdb

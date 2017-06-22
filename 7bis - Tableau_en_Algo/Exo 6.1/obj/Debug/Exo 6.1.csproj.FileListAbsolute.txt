@@ -1,0 +1,6 @@
+C:\Users\afpa\Google Drive\4 - C Sharp\7bis - Tableau_en_Algo\Exo 6.1\bin\Debug\Exo 6.1.exe.config
+C:\Users\afpa\Google Drive\4 - C Sharp\7bis - Tableau_en_Algo\Exo 6.1\bin\Debug\Exo 6.1.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\7bis - Tableau_en_Algo\Exo 6.1\bin\Debug\Exo 6.1.pdb
+C:\Users\afpa\Google Drive\4 - C Sharp\7bis - Tableau_en_Algo\Exo 6.1\obj\Debug\Exo 6.1.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Google Drive\4 - C Sharp\7bis - Tableau_en_Algo\Exo 6.1\obj\Debug\Exo 6.1.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\7bis - Tableau_en_Algo\Exo 6.1\obj\Debug\Exo 6.1.pdb

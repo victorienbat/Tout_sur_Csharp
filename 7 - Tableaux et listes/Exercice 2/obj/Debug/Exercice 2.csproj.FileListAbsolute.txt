@@ -1,0 +1,6 @@
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exercice 2\bin\Debug\Exercice 2.exe.config
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exercice 2\bin\Debug\Exercice 2.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exercice 2\bin\Debug\Exercice 2.pdb
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exercice 2\obj\Debug\Exercice 2.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exercice 2\obj\Debug\Exercice 2.pdb
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exercice 2\obj\Debug\Exercice 2.csprojResolveAssemblyReference.cache

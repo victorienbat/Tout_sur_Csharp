@@ -1,0 +1,5 @@
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exercice 4\bin\Debug\Exercice 4.exe.config
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exercice 4\bin\Debug\Exercice 4.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exercice 4\bin\Debug\Exercice 4.pdb
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exercice 4\obj\Debug\Exercice 4.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\7 - Tableaux et listes\Exercice 4\obj\Debug\Exercice 4.pdb
